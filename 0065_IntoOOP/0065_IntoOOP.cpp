@@ -32,6 +32,12 @@ class Matakuliah {
 		}
 
 		void output() {
-
+			cout << "Kode MK: " << kodeMK << endl;
+			cout << "Nama MK: " << namaMK << endl;
+			cout << "SKS: " << sks << endl;
 		}
 };
+
+int main() {
+
+}
